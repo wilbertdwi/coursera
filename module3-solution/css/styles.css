@@ -1,0 +1,61 @@
+body {
+  font-size: 20px;
+  color: #000000;
+  background-color: #fffacd;
+  font-family: "Gill Sans MT", Geneva, sans-serif;
+}
+
+#header-nav{
+  background-color: #00008b;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 { /* Food, LLC */
+  font-family: Georgia, Times, serif;
+  color: #fffaf0;
+  font-size: 2em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1.5px 1.5px 1.5px #000000;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 2px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list {
+  margin-top: 0;
+  margin-bottom: 0;
+  background-color: #87cefa;
+}
+
+#nav-list a {
+  color: #fffff0;
+  text-align: center;
+}
+
+#nav-list a:hover {
+  background: #add8e6;
+}
+
+#page-header {
+  margin-top: 30px;
+}
+
+#section-content{
+  margin: 20px 60px 20px;
+  padding: 20px;
+  background-color: #4169e1;
+}
+
+#section-content p{
+	color: #faf0e3;
+}
